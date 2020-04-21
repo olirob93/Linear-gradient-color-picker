@@ -1,3 +1,4 @@
 # Linear-gradient-color-picker
-small web application to pick two colors following Udemy course 
+Small web application to pick two colors to create colors for backgrounds
+Following Udemy course 
 
